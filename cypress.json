@@ -1,0 +1,6 @@
+{
+  "env": {
+    "ELECTRON_ENABLE_LOGGING": "false",
+    "ELECTRON_NO_ATTACH_CONSOLE": "true"
+  }
+}
